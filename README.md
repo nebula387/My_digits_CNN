@@ -52,10 +52,3 @@
 
 ---
 
-## ▶ Запуск проекта
-
-```bash
-git clone git@github.com:nebula387/My_digits_CNN.git
-cd My_digits_CNN
-pip install -r requirements.txt
-python train.py
